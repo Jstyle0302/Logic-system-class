@@ -1,4 +1,6 @@
 # Logic-system-class
+IDE: CodeBlock(C++)
+
 1. Purpose:
 To have a basic understanding in Central Processing Unit (CPU) by designing a preliminary CPU. 
 
