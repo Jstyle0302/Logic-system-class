@@ -9,7 +9,7 @@ To have a basic understanding in Central Processing Unit (CPU) by designing a pr
 
 3.Instruction Set Architecture (ISA):
 imm is short for immediate, Sel is short for select, Addr is short for address.
-See Note for detailed explanation of every instruction.
+See Note.jpg for detailed explanation of every instruction.
 
 4.I/O Specification:
 (1) CPU should be compiled as executable file and read a file called input.txt without asking users to input the file’s name.
